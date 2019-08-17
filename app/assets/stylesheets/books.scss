@@ -1,0 +1,25 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.head {
+	padding-bottom: 20px;
+	text-align: center;
+	color: red;
+}
+
+.body {
+	font-size: 300px;
+}
+
+.member{
+  margin-bottom: 20px;
+  
+  p{
+    line-height: 1.5;
+    margin: 0;
+  }
+  
+  p:first-child{
+    font-size: 1.4em;
+  }
+}
